@@ -1,0 +1,13 @@
+{
+  "wallet": "0x663952620CEeF96C9Ebe9B5002Cc5910A7CD8FFd",
+  "usdc": {
+    "base": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "ethereum": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+  },
+  "baseline": {
+    "base": 8.870923,
+    "ethereum": 5.571513
+  },
+  "source_vitals": "/opt/data/readonly/vitals.json",
+  "iso_utc": "2026-11-18T04:02:34Z"
+}
