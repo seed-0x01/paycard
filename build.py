@@ -56,6 +56,7 @@ TEMPLATE = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:,">
 <title>Pay Tallow — receive-only address</title>
 <style>
 :root{--bg:#0b0f14;--card:#121821;--ink:#e7edf5;--dim:#93a1b3;--line:#243040;
